@@ -2,6 +2,8 @@ package pairmatching.view;
 
 import camp.nextstep.edu.missionutils.Console;
 
+import static pairmatching.view.OutputView.printBreak;
+
 public class InputView {
     public static final String INPUT_MAIN = "기능을 선택하세요.\n"
             + "1. 페어 매칭\n"
